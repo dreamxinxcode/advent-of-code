@@ -22,4 +22,4 @@ for (let i = 0; i < input.length; i++) {
     prev = sum;
 }
 
-console.log(answer)
+console.log(answer);
